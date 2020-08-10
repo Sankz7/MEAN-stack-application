@@ -3,16 +3,16 @@ This project is the implimentation of REST API in node.js runtime environment us
 
 Node.js ->
 Read package.json file for installed packages in node.js.
-
+technology used - Express, MongoDB, Mongoose, cors
 
 
 Angular ->
 components created - List , Edit 
+technology used - bootstrap, material design 
+
 
 List component ->
 contain methods for reading data, inserting new record and deleting the record.
-
-
 
 
 Edit component ->
